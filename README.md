@@ -32,3 +32,9 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=Armagidosha&repo=README.md&countColor=%23663399" alt="Visitors counter" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Armagidosha/Armagidosha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Armagidosha/Armagidosha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Armagidosha/Armagidosha/output/github-snake.svg" />
+</picture>
