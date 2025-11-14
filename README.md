@@ -1,4 +1,4 @@
-<h1 align="center">Armagidosha / Junior developer</h1>
+<h1 align="center">Armagidosha / Web developer</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="html icon" height="40" />
